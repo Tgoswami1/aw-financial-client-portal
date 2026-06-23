@@ -1,0 +1,10 @@
+st.info("""
+Sample Client:
+
+Jerry Martin
+Kristina Martin
+
+Salary: $350,000
+Monthly Expenses: $15,000
+Insurance: $8,000
+""")
